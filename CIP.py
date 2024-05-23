@@ -143,3 +143,4 @@ def plot_step_time(lista_tat, lista_diferencas_de_tempo, MF):
 
     fig.show()
 
+##Fim do codigo
